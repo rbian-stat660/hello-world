@@ -1,4 +1,5 @@
 # rbian-stat660-hello-world
 
-Hi,
-I am Ran.
+Hello,
+
+My name is Ran Bian, majoring in Statistics-Data Science. So glad to study the SAS with you all!
