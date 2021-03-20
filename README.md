@@ -1,4 +1,4 @@
-# rbian-stat660-hello-world
+# hello-world
 
 Hello,
 
